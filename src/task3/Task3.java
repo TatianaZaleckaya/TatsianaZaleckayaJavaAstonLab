@@ -17,7 +17,7 @@ public class Task3 {
 
         for (int value : array) {
             if (value % 3 == 0) {
-                System.out.println("Число" + value + "делится на 3");
+                System.out.println("Число " + value + " делится на 3");
             }
         }
     }
